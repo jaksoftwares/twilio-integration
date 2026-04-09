@@ -4,7 +4,7 @@
 
 This is a production-ready messaging platform built with **Next.js 16**, **TypeScript**, and **Tailwind CSS**. It provides a robust architecture for receiving and processing incoming SMS and WhatsApp messages via Twilio Webhooks.
 
-## 🚀 Features
+##  Features
 
 -   **Multi-Channel Support**: Seamlessly handle both SMS and WhatsApp communications.
 -   **Advanced Parser**: Custom-built utility to extract message data, sender info, and multiple media attachments from Twilio's sequential payload.
@@ -12,7 +12,7 @@ This is a production-ready messaging platform built with **Next.js 16**, **TypeS
 -   **Premium UI**: A high-end, responsive dashboard designed with modern gradients and glassmorphism.
 -   **TwiML Automated Responses**: Built-in intelligent auto-reply logic for immediate user feedback.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 -   **Framework**: [Next.js 16](https://nextjs.org/) (App Router)
 -   **Language**: [TypeScript](https://www.typescriptlang.org/)
@@ -20,7 +20,7 @@ This is a production-ready messaging platform built with **Next.js 16**, **TypeS
 -   **Communication**: [Twilio Webhooks](https://www.twilio.com/)
 -   **Tunneling**: [ngrok](https://ngrok.com/) / [localtunnel](https://theboroer.github.io/localtunnel-www/)
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 ├── app/
@@ -56,8 +56,8 @@ npx localtunnel --port 3000
 Set your Twilio Messaging Webhook to:
 `https://<your-tunnel-url>/api/twilio/incoming`
 
-## 📖 Documentation
+##  Documentation
 For detailed information on moving to production, branding, and cost structures, please refer to the **[Twilio Production Guide](./docs/TWILIO%20PRODUCTION%20GUIDE.md)** created in the `docs` folder.
 
 ---
-Built with ❤️ for **Jak Softwares**
+Built with  for **Jak Softwares**
