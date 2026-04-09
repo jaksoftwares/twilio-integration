@@ -1,4 +1,4 @@
-# Kapuletu: Twilio Inbox & Messaging Platform
+# Jak Softwares: Twilio Inbox & Messaging Platform
 
 ![Twilio Messaging](./public/main-page.png)
 
