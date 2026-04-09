@@ -1,8 +1,8 @@
 # Kapuletu: Twilio Inbox & Messaging Platform
 
-![Kapuletu Dashboard](./public/main-page.png)
+![Twilio Messaging](./public/main-page.png)
 
-Kapuletu is a production-ready messaging platform built with **Next.js 16**, **TypeScript**, and **Tailwind CSS**. It provides a robust architecture for receiving and processing incoming SMS and WhatsApp messages via Twilio Webhooks.
+This is a production-ready messaging platform built with **Next.js 16**, **TypeScript**, and **Tailwind CSS**. It provides a robust architecture for receiving and processing incoming SMS and WhatsApp messages via Twilio Webhooks.
 
 ## 🚀 Features
 
@@ -60,4 +60,4 @@ Set your Twilio Messaging Webhook to:
 For detailed information on moving to production, branding, and cost structures, please refer to the **[Twilio Production Guide](./docs/TWILIO%20PRODUCTION%20GUIDE.md)** created in the `docs` folder.
 
 ---
-Built with ❤️ for **Kapuletu**
+Built with ❤️ for **Jak Softwares**
